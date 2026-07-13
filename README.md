@@ -108,17 +108,4 @@ Compares product quantities sold across categories.
 
 
 
-&#x20;**Authors**
-
-
-
-Abirami S
-
-
-
-&#x20;Project Type
-
-
-
-Data Analysis | Python | Jupyter Notebook | Data Visualization
 
